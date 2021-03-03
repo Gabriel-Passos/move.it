@@ -34,7 +34,7 @@
 <p align="justify">
 <b>Move.it</b> é uma aplicação com elementos de gamificação voltada para profissionais que passam a maior parte de suas jornadas de trabalho sentados em frente à computadores. Baseado na técnica de Pomodoro, que consiste em se manter extremamente focado em uma atividade durante um certo período, e após o término a pessoa tem alguns minutinhos para fazer o que quiser até o ciclo recomeçar. Na maioria dos casos às pessoas costumam utitlizar um ciclo de 25 minutos de foco total e 5 minutos para descanço. Sendo assim, o move.it apresenta uma prorposta interessante, onde ao término de cada ciclo, o usuário receberá um desafio, cada desafio é único e conta com um número de experiência e com uma proposta de exercício.
 
-<i>No momento a aplicação está restrita somente à aqueles que possuem contas no GitHub.</i> 
+<i>No momento a aplicação está restrita somente à aqueles que possuem contas no GitHub, e algumas funcionalidades estão sendo desenvolvidas.</i> 
 </p>
 
 
