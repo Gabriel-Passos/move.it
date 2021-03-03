@@ -46,17 +46,23 @@ Acesse o terminal, e clone o projeto com o seguinte comando:
 git clone https://github.com/Gabriel-Passos/move.it.git
 ```
 
-- Com o projeto clonado e com o terminal aberto, precisamos instalar as dependências do projeto, portanto execute o seguinte comando:
+- Com o projeto clonado e com o terminal aberto, precisamos navegar até a pasta do projeto, portanto execute o seguinte comando:
 
 ```
-yarn 
+cd move.it
+```
 
-ou 
+- Agora na pasta do projeto e com o terminal aberto, é necessário instalar as dependências do projeto, portanto execute o comando:
+
+```
+yarn
+
+ou
 
 npm install
 ```
 
-- Agora falta pouco para rodar a aplicacão, para isso execute: 
+- Agora falta pouco para rodar a aplicacão, ainda na pasta do projeto e com o terminal aberto, execute: 
 
 ```
 yarn dev
