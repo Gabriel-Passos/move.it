@@ -15,6 +15,8 @@
 
 :rocket: [Aplicação rodando](https://gp-moveit.vercel.app/)
 
+:art: [Layout da aplicação](https://www.figma.com/file/YYBydhrW5JClwdmuPISSv5/Move.it-2.0-(Copy)?node-id=160%3A2761)
+
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
