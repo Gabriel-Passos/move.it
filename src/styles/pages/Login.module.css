@@ -1,0 +1,86 @@
+.loginBackground {
+  height: 100vh;
+
+  background: var(--blue);
+}
+
+.loginContainer {
+  margin-right: 16rem;
+
+  padding-top: 4.6rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.loginContainer section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.loginContainer section > img {
+  margin-bottom: 4.8rem;
+}
+
+.loginContainer section > strong {
+  font-size: 2rem;
+  color: var(--white);
+}
+
+.loginContainer section .githubContainer {
+  display: flex;
+  align-items: center;
+
+  max-width: 268px;
+
+  margin: 1.2rem 0 2.4rem;
+  
+  color: var(--text-highlight);
+  font-weight: 500;
+} 
+
+.loginContainer section .githubContainer img {
+  margin-right: 1.5rem;
+}
+
+.loginBackground section > form {
+  display: flex;
+  align-items: center;
+}
+
+.loginBackground section > form input {
+  padding: 1rem;
+  outline: 0;
+
+  color: var(--white);
+
+  border: 0;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+
+  background: linear-gradient(to right, var(--blue-dark), var(--blue));
+}
+
+.loginBackground section > form input:hover {
+  box-shadow: 0 0 0 0.1rem var(--blue-dark);
+}
+
+.loginBackground section > form input:focus{
+  box-shadow: 0 0 0 0.1rem var(--blue-dark);
+}
+
+.loginBackground section > form input::placeholder {
+  color: var(--text-highlight);
+}
+
+.loginBackground section > form button {
+  padding: 0.87rem 0.86rem 0.86rem;
+
+  border: 0;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  background: var(--blue-dark);
+}
