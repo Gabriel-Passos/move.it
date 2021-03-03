@@ -74,7 +74,7 @@ npm run dev
 
 Você encontrará sua aplicação rodando em: http://localhost:3000
 
-> <i>Caso queira parar a execuçãodo projeto, no terminal utilize a combinação de teclas Ctrl + C</i>
+> <i>Caso queira parar a execução do projeto, no terminal utilize a combinação de teclas Ctrl + C</i>
 
 ## Tecnologias utilizadas
 
