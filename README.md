@@ -13,7 +13,7 @@
 
 > Aplicação desenvolvida durante a Next Level Week #04 da Rocketseat.
 
-> :rocket: [Aplicação rodando](https://gp-moveit.vercel.app/)
+:rocket: [Aplicação rodando](https://gp-moveit.vercel.app/)
 
 ### Tópicos 
 
@@ -73,6 +73,8 @@ npm run dev
 ```
 
 Você encontrará sua aplicação rodando em: http://localhost:3000
+
+> <i>Caso queira parar a execuçãodo projeto, no terminal utilize a combinação de teclas Ctrl + C</i>
 
 ## Tecnologias utilizadas
 
