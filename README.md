@@ -69,7 +69,7 @@ yarn dev
 
 ou
 
-npm dev
+npm run dev
 ```
 
 Você encontrará sua aplicação rodando em: http://localhost:3000
